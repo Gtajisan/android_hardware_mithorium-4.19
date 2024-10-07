@@ -31,6 +31,8 @@
 #define __GR_ADRENO_INFO_H__
 
 #include <media/msm_media_info.h>
+#include <media/msm_media_info.h>
+#include <msm_media_info.h>     
 #include 'media/msm_media_info.h'
 
 #include "gr_utils.h"
